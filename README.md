@@ -4,7 +4,7 @@
 
 The official **MATLAB** implementation of a fuzzy-logic and clustering based algorithm for extracting perceptually relevant color palettes from images.
 
-[J. Daniel Subias](https://dsubias.github.io/)<sup>1\*</sup>, [Ramon Fernandez-Gualda]()<sup>2</sup>, [Samuel Morillas]()<sup>3</sup> & [Juan Luis Nieves]()<sup>2</sup>
+[J. Daniel Subias](https://dsubias.github.io/)<sup>1\*</sup>, Ramon Fernandez-Gualda<sup>2</sup>, [Samuel Morillas](https://viplab.webs.upv.es/)<sup>3</sup> & Juan Luis Nieves<sup>2</sup>
 
 <sup>1</sup>**Universidad de Zaragoza, I3A, Spain**  
 <sup>2</sup>**University Institute of Pure and Applied Mathematics, Universitat Politècnica de València, Spain**  
