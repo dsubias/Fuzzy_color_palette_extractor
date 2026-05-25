@@ -20,8 +20,8 @@ In **CEIG - Spanish Computer Graphics Conference (2026)**
 ## TL;DR Quickstart
 ```bash
 # 1. Clone the repository and navigate into it
-git clone https://github.com/dsubias/Relevat_colors_2026.git
-cd Relevat_colors_2026
+git clone https://github.com/dsubias/Fuzzy_color_palette_extractor.git
+cd Fuzzy_color_palette_extractor
 ```
 ```matlab
 % 2. Open MATLAB and ensure you are in the repository folder
