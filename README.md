@@ -79,7 +79,16 @@ To process your own images, place them inside the `./Test_Images` folder.
 If you use this work, please consider citing our paper:
 
 ```bibtex
-% Coming Soon
+@inproceedings{10.2312:ceig.20261009,
+booktitle = {Spanish Computer Graphics Conference (CEIG)},
+editor = {Munoz-Pandiella, Imanol and Garces, Elena},
+title = {{Fuzzy-logic-based Relevant Color Extractor}},
+author = {Subias, Jose Daniel and Fernandez-Gualda, Ramon and Morillas, Samuel and Luis Nieves, Juan},
+year = {2026},
+publisher = {The Eurographics Association},
+ISBN = {978-3-03868-301-8},
+DOI = {10.2312/ceig.20261009}
+}
 ```
 
 ## Acknowledgements
